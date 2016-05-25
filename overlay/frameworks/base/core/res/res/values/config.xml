@@ -236,4 +236,7 @@
 
     <!-- Show battery fully charged notification -->
     <bool name="config_showBatteryFullyChargedNotification">true</bool>
+
+    <!-- HW keys prefs-->
+    <bool name="config_hwKeysPref">true</bool>
 </resources>

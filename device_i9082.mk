@@ -31,6 +31,7 @@ PRODUCT_PACKAGES += \
     charger_res_images \
     SamsungServiceMode \
     Snap
+    Gello
 
 # Wi-Fi
 PRODUCT_PACKAGES += \

@@ -45,3 +45,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
 ADDITIONAL_DEFAULT_PROPERTIES += \
     ro.adb.secure=0 \
     ro.secure=0
+
+# OTA Updates
+PRODUCT_PROPERTY_OVERRIDES += \
+ro.ota.romname=Dirty Unicorns \
+ro.ota.manifest=https://raw.githubusercontent.com/daneal2u/ota/master/du_i9082_ota.xml

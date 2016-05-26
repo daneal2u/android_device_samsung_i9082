@@ -33,6 +33,10 @@ PRODUCT_PACKAGES += \
     SamsungServiceMode \
     Snap
 
+# Gello
+PRODUCT_PACKAGES += \
+    Gello
+
 # Wi-Fi
 PRODUCT_PACKAGES += \
     dhcpcd.conf \

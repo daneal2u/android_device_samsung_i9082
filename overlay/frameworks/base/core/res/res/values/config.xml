@@ -177,7 +177,7 @@
             64 - Volume rocker
          For example, a device with Home, Back and Menu keys would set this
          config to 7. -->
-    <integer name="config_deviceHardwareWakeKeys">65</integer>
+    <!--integer name="config_deviceHardwareWakeKeys">65</integer-->
 
     <!-- Whether Multiuser UI should be shown -->
     <bool name="config_enableMultiUserUI">true</bool>
@@ -235,5 +235,5 @@
     <bool name="config_enableAutoPowerModes">true</bool>
 
     <!-- Show battery fully charged notification -->
-    <bool name="config_showBatteryFullyChargedNotification">true</bool>
+    <!--bool name="config_showBatteryFullyChargedNotification">true</bool-->
 </resources>

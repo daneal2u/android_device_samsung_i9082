@@ -36,6 +36,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Gello
 
+# OTA Updates
+PRODUCT_PACKAGES += \
+    OTAUpdates
+
 # Wi-Fi
 PRODUCT_PACKAGES += \
     dhcpcd.conf \

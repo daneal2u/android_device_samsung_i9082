@@ -32,8 +32,7 @@ PRODUCT_PACKAGES += \
     charger_res_images \
     Eleven \
     SamsungServiceMode \
-    Snap
-    Trebuchet 
+    Snap 
 
 # Gello
 PRODUCT_PACKAGES += \

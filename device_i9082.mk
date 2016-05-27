@@ -28,7 +28,6 @@ PRODUCT_COPY_FILES += \
 
 # Packages
 PRODUCT_PACKAGES += \
-    AudioFX \
     charger_res_images \
     Eleven \
     SamsungServiceMode \

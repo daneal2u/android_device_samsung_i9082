@@ -28,9 +28,12 @@ PRODUCT_COPY_FILES += \
 
 # Packages
 PRODUCT_PACKAGES += \
+    AudioFX \
     charger_res_images \
+    Eleven \
     SamsungServiceMode \
     Snap
+    Trebuchet 
 
 # Gello
 PRODUCT_PACKAGES += \
